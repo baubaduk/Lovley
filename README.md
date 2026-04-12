@@ -2,6 +2,6 @@
 
 ### EXAMPLE ###
 
-![page1](https://i.postimg.cc/xXycvtP7/page1.png)
-![page2](https://i.postimg.cc/75Mf3mNp/page2.png)
-![page3](https://i.postimg.cc/fVjJcBvG/page3.png)
+![page1](https://i.postimg.cc/4xjVT0HJ/page1.png)
+![page2](https://i.postimg.cc/4xjVT0HN/page2.png)
+![page3](https://i.postimg.cc/rw7xLHRw/page3.png)
